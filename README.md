@@ -21,3 +21,4 @@ English to Chinese (Traditional) Translation
 The conformer has a burge-like architecture containing two harf feed forward modules as two bread, the convolution module as tomato, and the Multi-head self attention module as a steak. As we know, convolution layer can extract local information from the data, and the self-attention layer can get the global information from the data. 
 The conformer combines the advantage of the convolution layer and the self-attention layer, and is able to extract both local and global information from the data.
 
+![Architecture of Conformer](https://github.com/Yejiong/Self-attension-and-transformer/blob/main/conformer.PNG)
