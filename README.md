@@ -6,6 +6,13 @@ Use the multi-head self attention and transformer to classify the speakers of a 
 - Construct [conformer](https://arxiv.org/abs/2005.08100) which is a variety of transformer. 
 - Implement [Self-Attention Pooling](https://arxiv.org/pdf/2008.01077v1.pdf) & [Additive Margin Softmax](https://arxiv.org/pdf/1801.05599.pdf) to further boost the performance.
 
+
+English to Chinese (Traditional) Translation
+
+- Train a simple RNN seq2seq to acheive translation
+- Switch to transformer model to boost performance
+- Apply Back-translation to furthur boost performance
+
 ## Download dataset
 - Data is [here](https://drive.google.com/drive/folders/1vI1kuLB-q1VilIftiwnPOCAeOOFfBZge?usp=sharing)
 
