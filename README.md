@@ -13,6 +13,9 @@ English to Chinese (Traditional) Translation
 - Switch to transformer model to boost performance
 - Apply Back-translation to furthur boost performance
 
+Chinese Extractive Question Answering
+- Fine tune a pretrained BERT model to find the answer that is in the provided paragraph for questions.
+ 
 ## Download dataset
 - Data is [here](https://drive.google.com/drive/folders/1vI1kuLB-q1VilIftiwnPOCAeOOFfBZge?usp=sharing)
 
